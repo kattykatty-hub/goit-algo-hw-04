@@ -1,0 +1,39 @@
+arr_gen_name='generate_random_array'
+Time taken to sort array of size 100 with Insertion sort in seconds: 0.00252
+Time taken to sort array of size 100 with Merge sort     in seconds: 0.00118
+Time taken to sort array of size 100 with Timsort        in seconds: 0.00088 <--- BEST
+arr_gen_name='generate_sorted_array'
+Time taken to sort array of size 100 with Insertion sort in seconds: 0.00009
+Time taken to sort array of size 100 with Merge sort     in seconds: 0.00173
+Time taken to sort array of size 100 with Timsort        in seconds: 0.00031 <--- BEST
+arr_gen_name='generate_reverse_sorted_array'
+Time taken to sort array of size 100 with Insertion sort in seconds: 0.00520
+Time taken to sort array of size 100 with Merge sort     in seconds: 0.00112 <--- BEST
+Time taken to sort array of size 100 with Timsort        in seconds: 0.00138
+-----------------------------------------------------------------
+arr_gen_name='generate_random_array'
+Time taken to sort array of size 1000 with Insertion sort in seconds: 0.23785
+Time taken to sort array of size 1000 with Merge sort     in seconds: 0.01669 <--- BEST
+Time taken to sort array of size 1000 with Timsort        in seconds: 0.01842
+arr_gen_name='generate_sorted_array'
+Time taken to sort array of size 1000 with Insertion sort in seconds: 0.00160
+Time taken to sort array of size 1000 with Merge sort     in seconds: 0.02121
+Time taken to sort array of size 1000 with Timsort        in seconds: 0.00884 <--- BEST
+arr_gen_name='generate_reverse_sorted_array'
+Time taken to sort array of size 1000 with Insertion sort in seconds: 0.41371
+Time taken to sort array of size 1000 with Merge sort     in seconds: 0.01207 <--- BEST
+Time taken to sort array of size 1000 with Timsort        in seconds: 0.01772
+-----------------------------------------------------------------
+arr_gen_name='generate_random_array'
+Time taken to sort array of size 10000 with Insertion sort in seconds: 18.41666
+Time taken to sort array of size 10000 with Merge sort     in seconds: 0.19181
+Time taken to sort array of size 10000 with Timsort        in seconds: 0.15517 <--- BEST
+arr_gen_name='generate_sorted_array'
+Time taken to sort array of size 10000 with Insertion sort in seconds: 0.00982
+Time taken to sort array of size 10000 with Merge sort     in seconds: 0.17754
+Time taken to sort array of size 10000 with Timsort        in seconds: 0.08149 <--- BEST
+arr_gen_name='generate_reverse_sorted_array'
+Time taken to sort array of size 10000 with Insertion sort in seconds: 35.94063
+Time taken to sort array of size 10000 with Merge sort     in seconds: 0.18275 <--- BEST
+Time taken to sort array of size 10000 with Timsort        in seconds: 0.20655
+-----------------------------------------------------------------
